@@ -1,5 +1,6 @@
 {
     "name": "WebniseSolutions/sylius-razorpay",
+    "minimum-stability": "dev",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Razorpay Payment integration in Sylius Project",
