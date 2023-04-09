@@ -1,5 +1,5 @@
 {
-    "name": "WebniseSolutions/sylius-razorpay",
+    "name": "webnise-solutions/sylius-razorpay",
     "minimum-stability": "dev",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
